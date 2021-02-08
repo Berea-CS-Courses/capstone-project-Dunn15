@@ -1,0 +1,56 @@
+# Deliverable 0 - Project ideas
+
+Name: Austin Dunn 
+
+## Instructions
+
+1. Write the list of ideas you've generated (at least 3)
+* Crossword game
+* Systems for online learning with positive reinforcements
+* Systems for on line resources for entertainment during the pandemic with nursing home/hospital patients
+
+2. For each idea:
+
+
+Idea 1:  Crossword game
+A. The idea of the crossword game is I want to provide puzzles for enjoyment to maintain intellectual processing for individuals.  
+B. The target users are anyone with internet resources and target
+use is promoting intellectual processing and entertainment while waiting for an appointment. 
+	C.  The possible modalities will be an app or a website game.
+	D.  My personal enthusiasm for this idea is average (around a 3).
+
+Idea 2:  Systems for online learning with positive reinforcements
+A.  The idea of the systems for online learning with positive reinforcements is to provide learning to on line students connected with the Kentucky Core Content in Mathematics.  The idea is to provide lessons and evaluate the student’s learning and giving remediation or challenging activities to enrich their learning along with providing positive reinforcements along the focused units.
+B. The target users are third grade students in Kentucky to enrich or reteach mathematical concepts.
+C. The possible modalities well be an on line resource with an app or website.
+D. My personal enthusiasm for this idea is low average (around 2 ½).
+
+Idea 3:  Systems for online resources for entertainment during the 
+	   pandemic with nursing home/hospital patients
+A.  The idea of the systems for on line resources for entertainment during the pandemic with nursing home/hospital patients is to give the individuals activities to do while not being able to interact with their families due to COVID restrictions.
+B. The target use is for patients to have activities to pass their day without encountering more depression issues.  The target users are patients in hospital facilities.
+C.  The possible modalities will be functions on a website.  For example; the patient will have a choice of the activity they would like to interact with at any given time.
+D. My personal enthusiasm for this idea is above average (3 ½) because of providing an important resource during present time situations.
+
+- Describe the idea or the problem you want to solve (.e.g. I want to know how much money and polar bears I would save with a vegan diet; It's hard for me to find sheet music for my favorite video game soundtracks;  I want to make a robotic selfie stick that always gets the best angle )
+
+- Describe an envisioned scenario of use or target user(s)
+
+- Describe possible modalities a solution to your idea could take (web, mobile app, wearable, physical). There can be more than one.
+
+- Give the idea a personal enthusiasm score (5: I love it! -- 1: meh)
+
+3. Briefly summarize what your preferred idea is, and why you want to use this as your project. Describe any goals, concerns or challenges you have. We will use this as a starting point for our individual meetings with you next week.
+Response to 3:
+3. The preferred idea is number 3.  The reason I want to use this as my project is that it could possible relieve some stress from the health care workers and patients.  This idea will decrease some of the anxiety or depression issues because patients are not allowed
+	to interact with family members because of COVID restrictions.
+
+A.  My goals will be to generate a web page that has choices of several activities for patients to use for interactions or entertainment.  My goal will be to make it simple for anyone to use without any or not much assistance.  Another goal is interaction with others using the web page.  
+B. My concern with this idea is making the web site so it can be used by patients with disabilities.  Another concern is it needs to have interests of all patients (will that be too many resources).  I may need an interest inventory to make sure I include resources for everyone.  The biggest concern I have is can I make it useful without causing more issues for the patients or the health care workers.  The challenge will be knowing what to include in the website because of no personal interaction with patients at this time therefore I will have to use activities I think they would like.  I will be able to change or revise the website at a later time.
+ 
+
+
+## Submission
+
+Save the document as _"D0 - Ideas.md"_ and submit to your Deliverables folder in (Github)[www.github.com].
+
