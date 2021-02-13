@@ -1,0 +1,30 @@
+Austin Dunn
+February 13, 2021
+1.  Overview
+Enjoyment Encounters is a website with several interfaces designed for nursing home patients, hospital patients and any user.  This web site will contain at least four to six interfaces with links for entertainment to promote positive mental state of mind.  During the pandemic of 2020, most patients are alone in healthcare facilities with no interactions with anyone or anything.  The interfaces will allow patients to have activities on hand to choose that will promote interaction and maintain positivity while being in a healthcare facility.  This website will motivate wellness in body and mental state by making the patient an active way to pass the time while occupying their minds. 
+ 
+2.  Features/Product Characteristics
+	The major intended feature of Enjoyment Encounters will be making interfaces that will 	
+	allow for the user to find games of interaction, arts such as: music/videos/painting and
+	interactions with the outside world.  A product characteristic that a stake holder might
+	anticipate is accessibility.  Accessibility to users with disabilities might require assistance 
+	for interaction with Enjoyment Encounters.  The making of the interfaces along with the 	
+	links may be time consuming so therefore the accessibility will not be included at this 
+	time.
+
+3.  Functional 
+A.  Create a web site (get a domain)  Eye catching and easy to read
+B. Make the web site have interfaces 
+C. Connect each interface with a link
+1.  Bingo
+2. Crossword Puzzle
+3. YouTube
+4. Paint by Number
+5. FaceTime??  Hula/Netflix??
+6. Search engine (Users choice)
+D.  Make the interface picture for link.  Start with 3C1 and repeat the process.
+Non Functional
+A.  Connection to internet
+B. Technology within the facility 
+C. Equipment for usage
+
