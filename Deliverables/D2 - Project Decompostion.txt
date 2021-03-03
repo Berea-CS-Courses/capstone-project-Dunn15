@@ -1,0 +1,61 @@
+Austin Dunn 
+1.  Major Components
+A.  Accessibility- front end UI with bold colors and bold font and mechanics
+B. Design- front end UI- navigation elements, text flow and menu
+C. Games
+a. Crossword Puzzles
+b. Bingo
+c. Drawing
+d. Game Website
+D.  Coding
+a. Usage of Django- allows focus on coding
+b. Introduction to Django and components (trial and error), getting more comfortable using the program
+2.  I will start with having accessibilities to help navigate the app for people with disabilities.  For example; Text to speech and speech recognizers will convert the communication using voice recognition.
+
+The design of the app has bright colors to help distinguish between each one.  The font on the game page consists of different sizes.  The sizes are different according to the importance of the screen.  The most important text is on bold colors with bold 20 font.  The first page is the home page.  The second page is the game page. The third page is movies with different media options.  The fourth page is the internet.  Fifth page is you tube.  Right now, I have a total of five pages but I am thinking of combining the internet and you tube pages.  
+
+The games include:
+A.  Crossword puzzles- this link is daily crossword puzzles from Cool Math.
+B. Bingo- this link is found on Google and is an online/offline game.
+C. Drawing- this link is found on Goggle Play and is paint by numbers.  This game has the accessibility of patients that may have a hard time seeing.
+D. Game website- this link is lots of games on Cool Math which promotes problem-solving and critical thinking skills.
+I am still working on the coding with Django.  I am getting more comfortable with Django but am still in the researching and practicing stage of using Django.  Therefore, the ability to test the code is also a work in progress.
+
+3.  Page 2 Game Page
+A. Crossword Puzzle
+1.  Find the link
+2. Utilize with Django
+3. Test the App
+4. Check Accessibility
+5. Feedback by different users
+6. Fix problems
+
+B. Bingo – Repeat 1-6 of above
+C. Drawing-Repeat 1-6 of above
+D. Game Website- Repeat 1-6 of above
+E. Page 2-5 or possibly 2-4 Repeat process 1-6 on each page.
+
+4.  Priority Steps:
+Accessibility
+
+
+Home Screen
+							Stretch goal to see if there are more popular
+							games than what I have selected
+
+
+
+
+				Adding Games			Test section
+
+
+					Movies Streaming Page			Test section
+
+
+					Internet/YouTube possibly Pandora		Test section
+
+					Test the app
+
+						Feedback
+
+Each section will be produced and coded in the order above.  After a section is fixed, I will test that section.
